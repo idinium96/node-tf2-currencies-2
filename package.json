@@ -1,6 +1,6 @@
 {
     "name": "tf2-currencies-2",
-    "version": "1.2.5",
+    "version": "2.0.0",
     "description": "Tool for handling Team Fortress 2 currencies",
     "main": "index.js",
     "engines": {
@@ -18,7 +18,7 @@
         "url": "git+https://github.com/TF2Autobot/node-tf2-currencies-2.git"
     },
     "author": {
-        "name": "Nicklas Marc Pedersen",
+        "name": "IdiNium/Nicklas Marc Pedersen",
         "url": "https://nicklas.io"
     },
     "license": "MIT",
