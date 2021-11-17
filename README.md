@@ -1,3 +1,5 @@
+# Archived - Please use @tf2autobot/tf2-currencies
+
 # node-tf2-currencies
 
 [![npm](https://img.shields.io/npm/v/tf2-currencies.svg)](https://www.npmjs.com/package/tf2-currencies)
